@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "መነሻ",
+    "history": "ታሪክ",
+    "register": "ይመዝገቡ",
+    "login": "ይግቡ"
+  },
+  "hero": {
+    "title": "የእርስዎ AI የህክምና ረዳት",
+    "subtitle": "መድሀኒቶችን በስም ወይም በምስል ይፈልጉ እና ዝርዝር መረጃ ወዲያውኑ ያግኙ።",
+    "searchPlaceholder": "የመድሀኒቱን ስም ያስገቡ (ለምሳሌ ፔኒሲሊን)...",
+    "searchButton": "መድሀኒት ፈልግ",
+    "or": "ወይም",
+    "uploadPhoto": "የመድሀኒት ፎቶ ይስቀሉ"
+  },
+  "features": {
+    "title": "ለምን MedAI ይጠቀሙ?",
+    "textSearch": "የጽሁፍ ፍለጋ",
+    "textSearchDesc": "የመድሀኒቱን ስም በመተየብ ዝርዝር ማብራሪያ ወዲያውኑ ያግኙ።",
+    "imageSearch": "የምስል መለያ",
+    "imageSearchDesc": "የመድሀኒቱን ፎቶ ይስቀሉ፣ AI-ያችን ይለየዋል።",
+    "bilingual": "በሁለት ቋንቋ",
+    "bilingualDesc": "ትክክለኛ የህክምና መረጃ በእንግሊዝኛ እና በአማርኛ ያግኙ።"
+  },
+  "auth": {
+    "registerTitle": "አዲስ መለያ ይፍጠሩ",
+    "registerSubtitle": "የፍለጋ ታሪክዎን ለማስቀመጥ MedAI ይቀላቀሉ።",
+    "loginTitle": "እንኳን ደህና መጡ",
+    "loginSubtitle": "የህክምና ታሪክዎን ለማየት ይግቡ።",
+    "name": "ሙሉ ስም",
+    "namePlaceholder": "ጆን ዶ",
+    "email": "ኢሜይል አድራሻ",
+    "emailPlaceholder": "you@example.com",
+    "password": "የይለፍ ቃል",
+    "passwordPlaceholder": "••••••••",
+    "registerButton": "ይመዝገቡ",
+    "loginButton": "ይግቡ",
+    "alreadyAccount": "መለያ አለዎት?",
+    "noAccount": "መለያ የለዎትም?",
+    "switchToLogin": "ይግቡ",
+    "switchToRegister": "ይመዝገቡ"
+  },
+  "results": {
+    "backToSearch": "ወደ ፍለጋ ተመለስ",
+    "loading": "የመድሀኒት መረጃ በመተንተን ላይ...",
+    "uses": "አጠቃቀሞች",
+    "sideEffects": "የጎንዮሽ ውጤቶች",
+    "warnings": "ማስጠንቀቂያዎች",
+    "disclaimer": "ይህ መረጃ በ AI የተፈጠረ እና ለትምህርታዊ ዓላማዎች ብቻ ነው። ማንኛውንም መድሀኒት ከመውሰድዎ በፊት ሁልጊዜ ሐኪም ያማክሩ።"
+  },
+  "historyPage": {
+    "title": "የፍለጋ ታሪክዎ",
+    "subtitle": "ቀደም ሲል የፈለጉዋቸውን መድሀኒቶች ይገምግሙ።",
+    "empty": "እስካሁን ምንም መድሀኒት አልፈለጉም።",
+    "searchNow": "መድሀኒት ይፈልጉ",
+    "viewDetails": "ዝርዝሮችን ይመልከቱ",
+    "searchedOn": "የተፈለገበት ቀን"
+  }
+}
