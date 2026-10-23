@@ -1,7 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 google-genai
 python-dotenv
 python-multipart
 slowapi
-requests
