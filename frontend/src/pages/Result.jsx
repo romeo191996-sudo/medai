@@ -25,7 +25,7 @@ export default function Result() {
         console.log("1. Starting fetch for:", medicineName, "in language:", i18n.language);
 
         // 1. Get AI Text
-        const response = await fetch('http://127.0.0.1:8000/api/search', {
+        const response = await fetch('https://medai-pboj.onrender.com/api/search', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

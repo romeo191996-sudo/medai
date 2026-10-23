@@ -27,7 +27,7 @@ export default function Home() {
 
     try {
       // Send the image to Python
-      const response = await fetch(`http://127.0.0.1:8000/api/scan-image?language=${i18n.language}`, {
+      const response = await fetch(`https://medai-pboj.onrender.com/api/scan-image?language=${i18n.language}`, {
         method: 'POST',
         body: formData,
       });
